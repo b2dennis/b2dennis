@@ -1,9 +1,8 @@
 # Hey 👋 I'm Dennis
-🔭 I’m currently working on a fighter game, written in x86-64 assembly using OpenGL for graphics.  
-🌱 I’m currently learning OpenGL and x86-64 assembly to further understand the lower level workings of a computer and aid in debugging as well as reverse engineering compiled applications.  
-👯 I’m looking to collaborate with people on a game similar to VALORANT.  
+🔭 I’m currently working on a project for school involving SBCs and robotics! 
+🌱 I’m currently working on staying healthy!
+👯 I’m looking to collaborate with people on whatever they may want to do!
 📫 How to reach me: I am mostly on discord, dennis#3203.  
-⚡ Fun fact: I make YouTube videos on my channel called "DennisTHCR".  
 
 Tech Stack:
 <div align="left">
