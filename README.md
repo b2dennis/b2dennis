@@ -9,12 +9,10 @@ Tech Stack:
   <img src="https://img.shields.io/badge/-x86--64%20ASM-black?logo=none&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=none&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-C--sharp-00599C?logo=csharp&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Arduino-4EC597?logo=arduino&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=none&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JS-1AB374?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-007D6E?logo=nodedotjs&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-0098C2?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Lua-0098C2?logo=python&style=for-the-badge" />
 </div>
 Current setup:<br>
 CPU: AMD Ryzen 5 3600@4.2GHz<br>
