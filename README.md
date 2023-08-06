@@ -11,6 +11,7 @@ Tech Stack:
   <img src="https://img.shields.io/badge/-Node.js-007D6E?logo=nodedotjs&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-0098C2?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Lua-0098C2?logo=lua&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-0098C2?logo=java&style=for-the-badge" />
 </div>
 Current setup:<br>
 CPU: AMD Ryzen 5 3600@4.2GHz<br>
