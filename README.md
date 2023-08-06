@@ -1,8 +1,8 @@
 # Hey 👋 I'm Dennis
-🔭 I’m currently working on a project for school involving SBCs and robotics! <br>
+🔭 I’m currently working on Minecraft plugins! <br>
 🌱 I’m currently working on staying healthy! <br>
-👯 I’m looking to collaborate with people on whatever they may want to do! <br>
-📫 How to reach me: I am mostly on discord, dennis#3203.  <br>
+👯 I’m looking to collaborate with people! <br>
+📫 How to reach me: I am mostly on discord: dennisthcr.  <br>
 
 Tech Stack:
 <div align="left">
