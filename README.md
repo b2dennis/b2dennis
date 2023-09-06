@@ -6,6 +6,7 @@
 
 Tech Stack:
 <div align="left">
+  <img src="https://img.shields.io/badge/-Rust-0098C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-x86--64%20ASM-0098C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JS-0098C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-0098C2?style=for-the-badge" />
