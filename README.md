@@ -1,5 +1,5 @@
 # Hey 👋 I'm Dennis
-🔭 I’m currently working on Minecraft plugins! <br>
+🔭 I’m currently working on a school project! <br>
 🌱 I’m currently working on staying healthy! <br>
 👯 I’m looking to collaborate with people! <br>
 📫 How to reach me: I am mostly on discord: dennisthcr.  <br>
